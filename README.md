@@ -4,7 +4,7 @@ duplicate-file-finder
 - [Duplicate-Finder · PyPI](https://pypi.org/project/Duplicate-Finder/)
 
 ### TODO
-- [ ] ignore some files
+- [ ] ignore some files ([duplicates/duplicates.py#L29](https://github.com/akcarsten/Duplicate-Finder/blob/master/duplicates/duplicates.py#L29))
   - [python - Excluding directories in os.walk - Stack Overflow](https://stackoverflow.com/questions/19859840/excluding-directories-in-os-walk)
     - ```python
       # exclude = set(['New folder', 'Windows', 'Desktop'])
