@@ -1,5 +1,5 @@
-duplicate-file-finder
-=====================
+python-duplicate-file-finder
+============================
 ### Using
 - [Duplicate-Finder · PyPI](https://pypi.org/project/Duplicate-Finder/)
 
